@@ -124,7 +124,6 @@ p {
 }
 
 .price {
-  font-size: 18px;
   font-weight: 300;
 }
 
@@ -149,6 +148,16 @@ p {
 
 .author-img {
   width: 35px;
+}
+
+.clock {
+  width: 20px;
+  height: 20px;
+}
+
+.eth-icon {
+  width: 10px;
+  height: 20px;
 }
 
 a {
