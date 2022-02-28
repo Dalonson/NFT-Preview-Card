@@ -29,7 +29,7 @@ p {
 .card {
   background-color: hsl(216, 50%, 16%);
   margin: 50px 50px;
-  width: 290px;
+  width: 300px;
   padding: 20px;
   border-radius: 12px;
 }
@@ -121,6 +121,16 @@ p {
 .sale-container {
   display: flex;
   gap: 7px;
+}
+
+.price {
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.sale-duration {
+  font-size: 18px;
+  font-weight: 300;
 }
 
 /* dvider */
