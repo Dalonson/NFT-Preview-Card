@@ -26,7 +26,7 @@ p {
   display: flex;
   justify-content: center;
   align-content: center;
-  margin: auto;
+  /* margin: auto; */
 }
 
 .card {
@@ -53,6 +53,7 @@ p {
   display: flex;
   justify-content: center;
   opacity: 0;
+
   /* align-self: center; */
 }
 
