@@ -13,7 +13,8 @@ body {
   justify-content: center;
   align-content: center;
   min-width: 375px;
-  max-width: 1440px;
+  width: auto;
+  /* max-width: 1440px; */
 }
 
 p {
